@@ -5,8 +5,8 @@ Olá meu nome é Breno Souza, tenho 18 anos e estou fazendo o curso de Desenvolv
 
 ## Linguagens
 
- - No primeiro semestre do curso, as linguagens que eu aprendi foi: HTML,JS E CSS.
- - No segundo semestre do curso, estou aprendendo React Native.
+ - No primeiro semestre do curso, as linguagens que eu aprendi foi: HTML, JS E CSS.
+ - No segundo semestre do curso, estou aprendendo React Native e Node.js .
 
 <div style="display: inline_block">
   <p align="center"> 
