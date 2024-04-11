@@ -1,8 +1,7 @@
 ## Informações Pessoais
 
 Olá meu nome é Breno Souza, tenho 18 anos e estou fazendo o curso de Desenvolvimento de Sistemas no SENAI de Florianopolis.
-
-
+Estou estudando programação orientada em objetos em Java.
 ## Linguagens
 
  - No primeiro semestre do curso, as linguagens que eu aprendi foi: HTML, JS E CSS.
