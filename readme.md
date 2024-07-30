@@ -6,6 +6,8 @@ Estou estudando programação orientada em objetos em Java.
 
  - No primeiro semestre do curso, as linguagens que eu aprendi foi: HTML, JS E CSS.
  - No segundo semestre do curso, estou aprendendo React Native e Node.js .
+ - No terceiro semestre do curso, aprendi IOT e Arduino.
+ - No quarto semestre do curso, voltei a usar React, só que sem ser o native e Java.
 
 <div style="display: inline_block">
   <p align="center"> 
